@@ -1,6 +1,5 @@
 <h1 align="center">Learning JavaScript</h1>
-<p align="center"><img src=""></p> 
-![](img/javascript.jpeg)
+<p align="center"><img src="/img/javascript.jpg"></p> 
 
 ## Some links 
 ---
