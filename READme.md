@@ -1,5 +1,6 @@
 <h1 align="center">Learning JavaScript</h1>
-<p align="center"><img src="https://www.adictosaltrabajo.com/2018/05/15/es6-el-remozado-javascript-parte-iii-clases-y-otras-novedades-del-lenguaje/"></p> 
+<p align="center"><img src=""></p> 
+![](img/javascript.jpeg)
 
 ## Some links 
 ---
